@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Booking</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Explore Your Next Adventure</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Destinations</a>
+        <a href="#">Book Now</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <main>
+        <section class="featured-destinations">
+            <h2>Featured Destinations</h2>
+            <div class="destination-card">
+                <h3>Beach Paradise</h3>
+                <p>Escape to the beautiful beaches and enjoy the sun, sea, and sand.</p>
+            </div>
+            <div class="destination-card">
+                <h3>Mountain Retreat</h3>
+                <p>Experience the tranquility of the mountains and breathtaking landscapes.</p>
+            </div>
+        </section>
+
+        <section class="booking-info">
+            <h2>Book Your Trip</h2>
+            <p>Plan your dream vacation with us. Choose from our exciting destinations and book your trip today!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Travel Booking. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
